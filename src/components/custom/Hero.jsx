@@ -90,7 +90,7 @@ function Hero() {
     <div>
       {/* Video Background */}
       <video autoPlay loop muted style={videoStyle}>
-        <source src="public\bgvideo.mp4" type="video/mp4" /> 
+        <source src="/bgvideo.mp4" type="video/mp4" /> 
         Your browser does not support the video tag.
       </video>
 
