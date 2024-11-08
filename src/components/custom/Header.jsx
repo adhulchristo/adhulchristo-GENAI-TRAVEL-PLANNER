@@ -8,7 +8,7 @@ function Header() {
       <div className="flex items-center">
         <img 
           
-          src="public/Trip Ease.png" // Ensure the correct path for the image
+          src="/Trip Ease.png" // Ensure the correct path for the image
           alt="Trip Ease Logo" 
           style={{ width: '70px', height: 'auto' }} // Fixed width for better alignment
           loading="lazy" // Lazy load for performance

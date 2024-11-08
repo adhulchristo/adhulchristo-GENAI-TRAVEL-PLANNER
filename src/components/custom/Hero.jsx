@@ -139,7 +139,7 @@ function Hero() {
         }}
       >
         <img
-          src="public/feature1.avif"
+          src="/feature1.avif"
           alt="Trip Planning"
           style={{ width: "40%", height: "auto", borderRadius: "10px" }}
         />
@@ -199,7 +199,7 @@ function Hero() {
           </h2>
         </div>
         <img
-          src="public/aibudget.jpg"
+          src="/aibudget.jpg"
           alt="Trip Budgeting"
           style={{ width: "40%", height: "auto", borderRadius: "10px" }}
         />
@@ -217,7 +217,7 @@ function Hero() {
         }}
       >
         <img
-          src="public/feature3.avif"
+          src="/feature3.avif"
           alt="AI-Generated Summaries"
           style={{ width: "25%", height: "auto", borderRadius: "10px" }}
         />
@@ -328,7 +328,7 @@ function Hero() {
             <h5 style={{ fontWeight: "bold", fontSize: "18px" }}>Connect:</h5>
             
             <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" style={{ margin: "0 10px" }}>
-                <img src="public/linkedin.png" alt="LinkedIn" style={{ height: "24px" }} /><br></br>
+                <img src="/linkedin.png" alt="LinkedIn" style={{ height: "24px" }} /><br></br>
             </a>
             <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" style={{ margin: "0 10px" }}>
                 <img src="public/instagram.png" alt="Instagram" style={{ height: "24px" }} />
