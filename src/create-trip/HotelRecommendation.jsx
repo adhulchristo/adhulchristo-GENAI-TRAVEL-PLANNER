@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const hotels = [
   { id: 1, name: 'Bedrock Boutique', location: 'Goa', rating: 4.5, price: '$200', image: 'https://tse1.mm.bing.net/th?id=OIP.Y4K9HPvD8GjRQIDdHbtXKgHaEv&pid=Api&P=0&h=180' },
   { id: 2, name: 'Santana Beach Resort', location: 'Goa', rating: 4.8, price: '$300', image: 'src/assets/santana beach resort.jpeg' },
-  { id: 3, name: 'Ginger Panjim', location: 'Goa', rating: 4.7, price: '$250', img:'https://sl.bing.net/c8UdaRY41FQ' },
+  { id: 3, name: 'Ginger Panjim', location: 'Goa', rating: 4.7, price: '$250', img: 'https://digital.ihg.com/is/image/ihg/hotel-indigo-atlanta-4565115450-2x1' },
   { id: 4, name: 'The Aster', location: 'Goa', rating: 4.2, price: '$150', image: 'src/assets/the aster.jpeg' },
   { id: 5, name: 'Down da Goa', location: 'Goa', rating: 4.9, price: '$400', image: 'src/assets/hotel2.jpeg' },
 ];
