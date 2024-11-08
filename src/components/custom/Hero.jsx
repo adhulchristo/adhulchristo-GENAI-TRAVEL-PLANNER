@@ -331,10 +331,10 @@ function Hero() {
                 <img src="/linkedin.png" alt="LinkedIn" style={{ height: "24px" }} /><br></br>
             </a>
             <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" style={{ margin: "0 10px" }}>
-                <img src="public/instagram.png" alt="Instagram" style={{ height: "24px" }} />
+                <img src="/instagram.png" alt="Instagram" style={{ height: "24px" }} />
             </a>
             <a href="https://github.com" target="_blank" rel="noopener noreferrer" style={{ margin: "0 10px" }}>
-                <img src="public/github.png" alt="GitHub" style={{ height: "24px" }} />
+                <img src="/github.png" alt="GitHub" style={{ height: "24px" }} />
             </a>
             
         
