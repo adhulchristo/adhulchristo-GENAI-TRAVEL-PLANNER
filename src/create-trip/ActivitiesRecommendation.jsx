@@ -7,13 +7,13 @@ const ActivitiesRecommendation = () => {
   
   const activities = [
     { id: 'beaches', name: 'Beaches', img: 'https://picfiles.alphacoders.com/960/9601.jpg' },
-    { id: 'nature', name: 'Nature', img: 'src/assets/nature.jpg' },
-    { id: 'religious', name: 'Religious Visits', img: 'src/assets/religious.jpg' },
-    { id: 'fun', name: 'Fun Activities', img: 'src/assets/fun.jpg' },
-    { id: 'clubbing', name: 'Clubbing', img: 'src/assets/club.jpg' },
-    { id: 'water_sports', name: 'Water Sports', img: 'src/assets/water act.jpg' },
-    { id: 'historical_sites', name: 'Historical Sites', img: 'src/assets/historical.jpg' },
-    { id: 'local_culture', name: 'Explore Local Culture', img: 'src/assets/local.jpg' },
+    { id: 'nature', name: 'Nature', img: 'https://th.bing.com/th/id/OIP.IBu2mMrrUxvGHDVoNL2PJgHaFL?rs=1&pid=ImgDetMain' },
+    { id: 'religious', name: 'Religious Visits', img: 'https://th.bing.com/th/id/OIP.uJPJOc4L-SLNvGppEKEtMgHaE7?rs=1&pid=ImgDetMain' },
+    { id: 'fun', name: 'Fun Activities', img: 'https://th.bing.com/th/id/OIP.WkoFc7bdw_LTgqo31_LckwHaEV?rs=1&pid=ImgDetMain' },
+    { id: 'clubbing', name: 'Clubbing', img: 'https://www.installation-international.com/wp-content/uploads/2023/07/unnamed-9.jpg' },
+    { id: 'water_sports', name: 'Water Sports', img: 'https://wallpapercave.com/wp/wp7602277.jpg' },
+    { id: 'historical_sites', name: 'Historical Sites', img: 'https://luxurycolumnist.com/wp-content/uploads/2022/02/the-colosseum-rome-italy.jpg' },
+    { id: 'local_culture', name: 'Explore Local Culture', img: 'https://southcoastherald.co.za/wp-content/uploads/sites/52/2022/08/NteleziMsaniHeritag_23131.jpg' },
   ];
 
   const activityOptions = {
