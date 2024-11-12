@@ -6,7 +6,7 @@ const ActivitiesRecommendation = () => {
   const [searchTerm, setSearchTerm] = useState('');
   
   const activities = [
-    { id: 'beaches', name: 'Beaches', img: 'src/assets/beach.jpg' },
+    { id: 'beaches', name: 'Beaches', img: 'https://picfiles.alphacoders.com/960/9601.jpg' },
     { id: 'nature', name: 'Nature', img: 'src/assets/nature.jpg' },
     { id: 'religious', name: 'Religious Visits', img: 'src/assets/religious.jpg' },
     { id: 'fun', name: 'Fun Activities', img: 'src/assets/fun.jpg' },
