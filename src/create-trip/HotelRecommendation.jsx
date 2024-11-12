@@ -7,7 +7,7 @@ const hotels = [
   { id: 2, name: 'Santana Beach Resort', location: 'Goa', rating: 4.8, price: '$300', image: 'https://i.pinimg.com/originals/b7/1b/17/b71b17ff3c2bcd3cf6f4ec850f8e7ad1.jpg' },
   { id: 3, name: 'Ginger Panjim', location: 'Goa', rating: 4.7, price: '$250', image: 'https://th.bing.com/th/id/OIP.IH84fNXa_n6M7vze-hizeQHaEo?w=337&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7' },
   { id: 4, name: 'The Aster', location: 'Goa', rating: 4.2, price: '$150', image: 'https://img.freepik.com/premium-photo/luxury-hotel-lobby-with-furniture-large-window-generative-ai_634358-381.jpg' },
-  { id: 5, name: 'Down da Goa', location: 'Goa', rating: 4.9, price: '$400', image: 'src/assets/hotel2.jpeg' },
+  { id: 5, name: 'Down da Goa', location: 'Goa', rating: 4.9, price: '$400', image: 'https://th.bing.com/th/id/OIP.eplfQ52GC6KwxgirR1ZuLgHaEK?rs=1&pid=ImgDetMain' },
 ];
 
 const HotelRecommendation = () => {
